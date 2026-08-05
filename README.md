@@ -6,3 +6,6 @@ We built an end-to-end pipeline that starts with raw loan applicant data and end
 - **SQL (PostgreSQL, pgAdmin4)** → Data cleaning, transformations, feature engineering.
 - **Python (Pandas, Scikit-learn, XGBoost, Random Forest)** → ML model training & evaluation.
 - **Power BI** → Dashboard for visualization & business insights.
+## 🔑 Steps Implemented
+### 1️⃣ Data Preparation (SQL)
+- Imported loan applicant dataset into PostgreSQL.
