@@ -23,3 +23,8 @@ We built an end-to-end pipeline that starts with raw loan applicant data and end
 #### B. Business Insights
 - **Good Loans %:** 78.18% | **Default Rate:** 22%
 - **Expected Loss:** 8.16M | **Total Loan Amount at Risk:** 7M
+## 🚀 How to Run
+1. Clone this repo.
+2. Load the SQL scripts in PostgreSQL to clean & prep data.
+3. Run model_training.ipynb in Python to train & evaluate models.
+4. Open the Power BI file (Loan Defaulters Final.pbix) to interact with the dashboard.
