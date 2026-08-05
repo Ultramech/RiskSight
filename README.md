@@ -14,3 +14,5 @@ We built an end-to-end pipeline that starts with raw loan applicant data and end
 ### 2️⃣ Machine Learning (Python)
 - Encoded categorical variables using OneHotEncoder.
 - Built pipelines with Random Forest and XGBoost.
+- Tuned hyperparameters using GridSearchCV.
+- Achieved strong performance: Accuracy ~93%, Recall ~75% after tuning XGBoost.
