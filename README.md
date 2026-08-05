@@ -17,3 +17,6 @@ We built an end-to-end pipeline that starts with raw loan applicant data and end
 - Tuned hyperparameters using GridSearchCV.
 - Achieved strong performance: Accuracy ~93%, Recall ~75% after tuning XGBoost.
 - Generated predictions + default probabilities for new applicants.
+### 3️⃣ Dashboard (Power BI)
+#### A. Power BI (Modeling & Visualization)
+- Designed an **interactive Credit Risk Dashboard** with slicers for Loan Intent, Loan Grade, and Income Range.
