@@ -28,3 +28,7 @@ We built an end-to-end pipeline that starts with raw loan applicant data and end
 2. Load the SQL scripts in PostgreSQL to clean & prep data.
 3. Run model_training.ipynb in Python to train & evaluate models.
 4. Open the Power BI file (Loan Defaulters Final.pbix) to interact with the dashboard.
+## 📌 Next Steps (Future Improvements)
+- Deploy ML model as a Flask API for real-time scoring.
+- Connect API to Power BI for live scoring dashboards.
+- Add survival analysis for loan tenure risk.
