@@ -20,3 +20,6 @@ We built an end-to-end pipeline that starts with raw loan applicant data and end
 ### 3️⃣ Dashboard (Power BI)
 #### A. Power BI (Modeling & Visualization)
 - Designed an **interactive Credit Risk Dashboard** with slicers for Loan Intent, Loan Grade, and Income Range.
+#### B. Business Insights
+- **Good Loans %:** 78.18% | **Default Rate:** 22%
+- **Expected Loss:** 8.16M | **Total Loan Amount at Risk:** 7M
