@@ -11,3 +11,6 @@ We built an end-to-end pipeline that starts with raw loan applicant data and end
 - Imported loan applicant dataset into PostgreSQL.
 - Cleaned missing values (median imputation for numeric, mode for categorical).
 - Engineered new features: Loan-to-Income Ratio, Employment Category, Age/Income/Interest Rate Bands.
+### 2️⃣ Machine Learning (Python)
+- Encoded categorical variables using OneHotEncoder.
+- Built pipelines with Random Forest and XGBoost.
